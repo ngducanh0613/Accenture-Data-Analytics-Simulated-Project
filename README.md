@@ -1,0 +1,2 @@
+This simulated project advises a hypothetical social media client as a Data Analyst at Accenture. The main tasks are cleaning, modelling and analysing 
+seven marketing datasets to uncover insights into popular content categories and inform strategic decisions. Finally, a PowerPoint deck and video presentation will be prepared to communicate critical insights for the client and internal stakeholders.
